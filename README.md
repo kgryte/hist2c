@@ -1,4 +1,4 @@
-hist2c
+HIST2C
 ======
 
 Two-dimensional histogram calculation.
